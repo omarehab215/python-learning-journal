@@ -1,5 +1,7 @@
 # python-learning-journal
-A repository to document my Python learning journey
+<details>
+
+<summary>A repository to document my Python learning journey</summary>
 
 ###About Me
 
