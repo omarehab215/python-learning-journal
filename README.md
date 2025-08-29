@@ -3,8 +3,8 @@
 
 <summary>A repository to document my Python learning journey</summary>
 
-###About Me
+### About Me
 
-###Goals for this Course
+### Goals for this Course
 
-###My First Python Program "Hello World"
+### My First Python Program "Hello World"
